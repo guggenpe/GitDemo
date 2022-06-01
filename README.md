@@ -4,6 +4,7 @@ This is a sample repository for the Git course.
 
 ## GUIs
  * This change made by VSCode
+ * This change made by Visual Studio 2022
 
 ## How to work with Git
 1. git checkout main
