@@ -2,6 +2,9 @@
 
 This is a sample repository for the Git course.
 
+## GUIs
+ * This change made by VSCode
+
 ## How to work with Git
 1. git checkout main
 2. git pull
