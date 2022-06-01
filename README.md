@@ -1,4 +1,4 @@
-# Git Demo Repository
+# GitDemo Repo
 
 This is a sample repository for the Git course.
 
